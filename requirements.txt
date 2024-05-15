@@ -1,2 +1,15 @@
 Flask
 Gunicorn
+request
+random
+json
+torch
+torch.nn
+numpy
+nltk
+spacy
+requests
+collections
+bs4
+time
+json
